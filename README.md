@@ -1,4 +1,4 @@
-# AI PDF Chatbot using RAG
+# SmartPDF_chatbot
 
 ## Overview
 This project is a Retrieval-Augmented Generation (RAG) based AI chatbot that can answer questions from PDF documents using semantic search and Large Language Models.
